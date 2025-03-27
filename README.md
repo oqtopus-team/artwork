@@ -119,11 +119,6 @@ For details on use of the artwork, please see the [style guide](OQTOPUS_GUIDELIN
         <td><img src="./PNG/Transparent/oqtopus-normal_favicon@2x.png" width="100"></td>
         <td><img src="./SVG/oqtopus-normal_favicon.svg" width="100"></td>
     </tr>
-    <tr>
-        <th>color with background</th>
-        <td><img src="./PNG/WithBackGround/oqtopus-normal_favicon@2x.png" width="100"></td>
-        <td></td>
-    </tr>
 </table>
 
 ## License
