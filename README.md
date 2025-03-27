@@ -13,7 +13,7 @@ For details on use of the artwork, please see the [style guide](OQTOPUS_GUIDELIN
 - PNG: [PNG files](./PNG/)
 - SVG: [SVG files](./SVG/)
 
-## Logo
+## Logos
 
 <table>
     <tr>
