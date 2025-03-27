@@ -125,3 +125,7 @@ For details on use of the artwork, please see the [style guide](OQTOPUS_GUIDELIN
         <td></td>
     </tr>
 </table>
+
+## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](./LICENSE.md).
