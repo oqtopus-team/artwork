@@ -12,6 +12,7 @@ For details on use of the artwork, please see the [style guide](OQTOPUS_GUIDELIN
 - AI: [Adobe Illustrator files](./AI/)
 - PNG: [PNG files](./PNG/)
 - SVG: [SVG files](./SVG/)
+- Slides: [PowerPoint templates (light / dark)](./slide/README.md)
 
 ## Logos
 
