@@ -1,67 +1,67 @@
-# OQTOPUS スライドテンプレート
+# OQTOPUS Slide Templates
 
-OQTOPUS の発表資料向け PowerPoint テンプレートです。ライト版・ダーク版ともに、16:9 のスライドと11種類のレイアウトを収録しています。
+PowerPoint templates for OQTOPUS presentations. Both the light and dark versions include 16:9 slides and 11 layouts.
 
-| テンプレート | ファイル |
+| Theme | File |
 | --- | --- |
-| ライト版 | [oqtopus_template_light.potx](./oqtopus_template_light.potx) |
-| ダーク版 | [oqtopus_template_dark.potx](./oqtopus_template_dark.potx) |
+| Light | [oqtopus_template_light.potx](./oqtopus_template_light.potx) |
+| Dark | [oqtopus_template_dark.potx](./oqtopus_template_dark.potx) |
 
-## 使い方
+## Getting started
 
-1. 使用する `.potx` ファイルをダウンロードします。GitHub のファイル画面では **Download raw file** を選択します。
-2. デスクトップ版 PowerPoint でテンプレートを開きます。フォントは埋め込み済みです。埋め込みフォントが利用できない環境では、下記の **Noto Sans JP** をインストールしてください。
-3. 発表タイトル、発表者名・所属、イベント名、日付、セクション名を置き換えます。
-4. ［ホーム］→［新しいスライド］または［レイアウト］から、内容に合うレイアウトを選びます。サンプルスライドの複製でも作成できます。
-5. 発表資料は別名の **PowerPoint プレゼンテーション（`.pptx`）** として保存し、不要なサンプルスライドを削除します。
+1. Download the `.potx` file for your preferred theme. On the GitHub file page, select **Download raw file**.
+2. Open the template in the desktop version of PowerPoint. Fonts are embedded. If your environment cannot use embedded fonts, install **Noto Sans JP** using the link below.
+3. Replace the presentation title, presenter name and affiliation, event name, date, and section names.
+4. Choose a layout from **Home → New Slide** or **Layout**. You can also duplicate a sample slide.
+5. Save your presentation under a new name as a **PowerPoint Presentation (`.pptx`)** and remove any sample slides you do not need.
 
-ロゴや共通の書式を扱う際は、[OQTOPUS スタイルガイド](../OQTOPUS_GUIDELINES.pdf)を参照してください。共通要素の編集には［表示］→［スライド マスター］を使用します。
+Refer to the [OQTOPUS style guide](../OQTOPUS_GUIDELINES.pdf) when working with logos or shared formatting. To edit shared elements, use **View → Slide Master**.
 
-## レイアウト
+## Layouts
 
-両テンプレートに、次のレイアウトが含まれています。表はサンプルスライドの順です。
+Both templates include the following layouts, listed in sample slide order. Layout names and placeholder text in the template files are in Japanese; the table provides English descriptions.
 
-| スライド | レイアウト | 用途 |
+| Slide | Layout | Purpose |
 | --- | --- | --- |
-| 1 | 表紙（画像） | ビジュアル付きのタイトルページ |
-| 2 | 表紙（シンプル） | タイトルと発表者情報を中心にした表紙 |
-| 3 | タイトルとコンテンツ | 本文や箇条書き |
-| 4 | セクション見出し | 章の区切り |
-| 5 | 2 つのコンテンツ | 内容を左右に配置 |
-| 6 | 比較 | 見出し付きの左右比較 |
-| 7 | タイトルのみ | 図・表・グラフを大きく配置 |
-| 8 | 図とテキスト | 図と説明を併記 |
-| 9 | キーメッセージ | 結論や強調したいメッセージ |
-| 10 | 白紙 | 自由な構成 |
-| 11 | クロージング | 発表の締めくくり |
+| 1 | Cover (image) | Title page with a visual |
+| 2 | Cover (simple) | Title page focused on the title and presenter information |
+| 3 | Title and content | Body text or bullet points |
+| 4 | Section header | Section divider |
+| 5 | Two content areas | Content arranged side by side |
+| 6 | Comparison | Side-by-side comparison with headings |
+| 7 | Title only | Large figures, tables, or charts |
+| 8 | Picture and text | A figure with accompanying text |
+| 9 | Key message | A conclusion or message to emphasize |
+| 10 | Blank | A custom layout |
+| 11 | Closing | Closing slide |
 
-## フォント
+## Fonts
 
-日本語・英数字のテーマフォントには **Noto Sans JP** を指定しています。
+The theme uses **Noto Sans JP** for Japanese and Latin text, including numerals.
 
-- 入手先: [Google Fonts — Noto Sans JP](https://fonts.google.com/specimen/Noto+Sans+JP)
-- フォントのライセンス: [SIL Open Font License 1.1](https://github.com/google/fonts/blob/main/ofl/notosansjp/OFL.txt)
+- Download: [Google Fonts — Noto Sans JP](https://fonts.google.com/specimen/Noto+Sans+JP)
+- Font license: [SIL Open Font License 1.1](https://github.com/google/fonts/blob/main/ofl/notosansjp/OFL.txt)
 
-ライト版・ダーク版ともに、**Noto Sans JP・游ゴシック（各 Regular / Bold）を埋め込み済み**です。両方とも「すべての文字を埋め込む」設定で保存しています。
+Both templates include **embedded Noto Sans JP and Yu Gothic fonts (Regular and Bold)**. Both are saved with **Embed all characters** enabled.
 
-埋め込みフォントに対応しない環境では、Noto Sans JP をインストールしてください。インストール後は PowerPoint を再起動し、フォント一覧に表示されることを確認します。フォント未インストールの別端末での編集は未検証です。
+If your environment does not support embedded fonts, install Noto Sans JP, restart PowerPoint, and confirm that it appears in the font list. Editing on a separate computer without the fonts installed has not been tested.
 
-### 更新・再配布時のフォント埋め込み
+### Font embedding when updating or redistributing
 
-編集可能な資料として共有する場合は、対応するデスクトップ版 PowerPoint で **すべての文字を埋め込む** 設定を選びます。使用済みの文字だけを埋め込むと、受け取った人が新しい文字を追加する際に制約が生じます。全文字の埋め込みはファイルサイズを増やします。
+When sharing an editable presentation, select **Embed all characters** in a supported desktop version of PowerPoint. Embedding only the characters already used can limit the recipient's ability to add new text. Embedding all characters increases the file size.
 
-1. 対象ファイルを開き、保存設定を表示します。
-   - **Windows:** ［ファイル］→［オプション］→［保存］。
-   - **macOS:** ［PowerPoint］→［環境設定］（または［設定］）→［保存］。
-2. 対象のプレゼンテーションで［ファイルにフォントを埋め込む］を有効にします。
-3. ［すべての文字を埋め込む（他のユーザーが編集するのに最適）］を選択します。
-4. テンプレートを更新する場合は `.potx`、作成した発表資料は `.pptx` で保存します。ライト版・ダーク版の両方を配布する場合は、それぞれ設定して保存してください。
-5. 保存したファイルを閉じて開き直し、警告がないことを確認します。可能であれば Noto Sans JP が未インストールの別端末でも、日本語・英数字の表示と追加入力を確認します。
+1. Open the file and go to the save settings:
+   - **Windows:** **File → Options → Save**.
+   - **macOS:** **PowerPoint → Preferences** (or **Settings**) **→ Save**.
+2. Enable **Embed fonts in the file** for the presentation.
+3. Select **Embed all characters (best for editing by other people)**.
+4. Save template updates as `.potx` and presentations created from the templates as `.pptx`. If distributing both themes, configure and save each file separately.
+5. Close and reopen the saved file and check for warnings. If possible, use another computer without Noto Sans JP installed to check that Japanese and Latin text displays correctly and that new text can be added.
 
-埋め込みの対応状況は PowerPoint のバージョンやフォントによって異なります。保存時に警告が出た場合は、埋め込み済みとして配布せず、フォントのインストールを案内してください。手順と対応バージョンは [Microsoft のフォント埋め込みガイド](https://support.microsoft.com/ja-jp/office/fonts/benefits-of-embedding-custom-fonts)を参照してください。
+Embedding support varies by PowerPoint version and font. If a warning appears when saving, do not describe the file as having successfully embedded fonts; provide font installation instructions instead. See [Microsoft's font embedding guide](https://support.microsoft.com/en-us/office/fonts/benefits-of-embedding-custom-fonts) for instructions and supported versions.
 
-Google Slides や Keynote での表示・編集互換性は未検証です。別のアプリで使う場合は改行や文字位置を確認し、閲覧用には確認済みの PDF も併せて配布すると便利です。
+Display and editing compatibility with Google Slides and Keynote has not been tested. When using another application, check line breaks and text positioning. Consider distributing a reviewed PDF alongside the editable file for viewing.
 
-## ライセンス
+## License
 
-テンプレート内のアートワークは、このリポジトリの [CC BY 4.0 ライセンス](../LICENSE.md)に従います。フォント自体には、上記のフォント固有のライセンスが適用されます。
+Artwork in the templates is covered by this repository's [CC BY 4.0 license](../LICENSE.md). Fonts are subject to their own licenses; the Noto Sans JP license is linked above.
